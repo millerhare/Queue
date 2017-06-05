@@ -1,0 +1,14 @@
+
+.am_progressbar {
+	display:block;
+	float:left;
+	width:100px;
+	height:14px;
+	background-color: #eeeeee;
+	overflow: hidden;
+}
+.am_progressbar SPAN {
+	display:block;
+	background-color:#cccccc;
+	overflow: hidden;
+}
